@@ -105,3 +105,6 @@ gcsw-u2-s4-proyecto-parcial-jenkins-grupo-d/
 | **Integración con GitHub** | Webhooks configurados correctamente para trigger automático y notificaciones. | Webhooks configurados pero sin notificaciones o triggers inconsistentes. | Configuración parcial; requiere intervención manual para ejecutar. | Sin integración con GitHub. |
 | **Informe Técnico** | Documento detallado con explicaciones claras, problemas/soluciones y evidencia en YouTube. | Informe completo con video de YouTube pero con falta de profundidad en algunos aspectos. | Informe básico con video de YouTube pero con omisiones importantes. | Informe incompleto o sin evidencia del pipeline. |
 | **Calidad del Código** | Código bien estructurado, con pruebas unitarias y comentarios explicativos. | Código funcional pero con pruebas limitadas o falta de comentarios. | Código funciona pero es confuso o sin pruebas. | Código incompleto o con errores graves. |
+
+Implementación
+**Ronny Sánchez:** Implementación y prueba de merge desde la rama feature/ronnysanchez.
